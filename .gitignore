@@ -1,0 +1,8 @@
+.*
+!/.gitignore
+IDE.log
+/zybo-huffmantree/Debug
+/zybo-huffmantree/_ide
+/RemoteSystemsTempFiles
+
+
